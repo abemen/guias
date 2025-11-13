@@ -15,11 +15,11 @@ Estas son las secciones esenciales que un póster científico debe llevar según
 |**Referencias (o Bibliografía)**|Incluya solo las referencias citadas directamente en el póster, siguiendo el estilo de citación numérico de la IEEE.|
 |**Agradecimientos (Opcional)**|Para reconocer a personas o entidades que contribuyeron al trabajo, como fuentes de financiación o colaboradores.|
 
-## Guía de diseño para Póster Científico Académico
+## 1. Guía de diseño para Póster Científico Académico
 
-### Formato A0
+### 1.1 Formato A0
 
-#### Dimensiones y orientación
+#### 1.1.1 Dimensiones y orientación
 
 |Característica        |Especificación                                                     |
 |:---------------------|:------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Estas son las secciones esenciales que un póster científico debe llevar según
 |Márgenes              |Se recomienda un margen mínimo de 30-40 mm en todos los bordes para una impresión de calidad y un aspecto profesional.|
 |Columnas Recomendadas |3 a 4 columnas para organizar el contenido IMRyD, facilitando el flujo de lectura de izquierda a derecha.|
 
-#### Tipografía y Legibilidad
+#### 1.1.2 Tipografía y Legibilidad
 
 La prioridad en un póster es que la información se lea a distancia. Se prefieren las fuentes Sans Serif (sin remates) como Arial o Helvetica, ya que son más claras en impresiones grandes.
 
@@ -41,9 +41,9 @@ La prioridad en un póster es que la información se lea a distancia. Se prefier
 |Cuerpo del Texto (Párrafos, Listas)| 36 a 48 pt |Mayúsculas/Minúsculas|Legible a 1-2 metros|
 |Pies de Figura/Leyendas| 28 a 36 pt |Mayúsculas/Minúsculas, Cursiva|Lectura cercana|
 
-### Formato A1
+### 1.2 Formato A1
 
-#### Dimensiones y orientación
+#### 1.2.1 Dimensiones y orientación
 
 |Característica        |Especificación                                                     |
 |:---------------------|:------------------------------------------------------------------|
@@ -51,7 +51,7 @@ La prioridad en un póster es que la información se lea a distancia. Se prefier
 |Orientación           |Vertical (Retrato)
 |Márgenes              |Se recomienda dejar al menos 25 mm de margen en todos los bordes para un acabado limpio y evitar que el contenido se corte.|
 
-#### Tipografía y Legibilidad
+#### 1.2.2 Tipografía y Legibilidad
 
 |Elemento        |Tamaño augerido (Puntos)|Estilo Recomendado    |Distancia de Lectura Objetivo             |
 |:---------------|:----------------------:|:---------------------|:-------------------------------------------|
@@ -64,12 +64,12 @@ La prioridad en un póster es que la información se lea a distancia. Se prefier
 
 ___Nota___: Limite el número de tipos de letra a dos (uno para títulos y otro para cuerpo de texto) para mantener la coherencia. Evite el uso de texto en MAYÚSCULAS sostenidas para el cuerpo de texto, ya que es más difícil de leer.
 
-###  Logotipos y Créditos
+###  1.3 Logotipos y Créditos
 
 - **Ubicación del Logotipo**: coloque los logotipos institucionales (Universidad) en la esquina superior izquierda/derecha, cerca del título y los autores. Asegúrese de que tengan alta resolución.
 - **Créditos/Financiamiento**: si aplica, el texto de agradecimientos o financiamiento puede ir en la franja inferior con la sección de Referencias.
 
-### Flujo y Contraste
+### 1.4 Flujo y Contraste
 
 - **Flujo de lectura**: organice el contenido en 2 o 3 columnas para que el flujo de lectura sea intuitivo (de izquierda a derecha y de arriba abajo). Utilice números (1, 2, 3...) o flechas si el flujo no es obvio.
 
@@ -77,9 +77,9 @@ ___Nota___: Limite el número de tipos de letra a dos (uno para títulos y otro 
 
 - **Espacio en blanco (Negativo)**: usa el espacio vacío alrededor de las secciones, figuras y encabezados para separar bloques de contenido y guiar la vista. Evitará que el póster se vea saturado.
 
-## Contenidos y diagramas sugeridos por sección (Ingenierías)
+## 2. Contenidos y diagramas sugeridos por sección (Ingenierías)
 
-### Introducción (Uso de Listas)
+### 2.1 Introducción (Uso de Listas)
 
 La __Introducción__ debe ser breve y enfocarse en la problemática y los objetivos. Se recomienda el uso de listas de viñetas para estos puntos clave.
 
@@ -89,7 +89,7 @@ La __Introducción__ debe ser breve y enfocarse en la problemática y los objeti
 |Objetivos |Indicar qué se quiere lograr con el proyecto.|* Desarrollar un modelo predictivo con $90\%$ de exactitud. * Optimizar el layout de la planta en un $15\%$. * Implementar un sistema de control IoT de bajo consumo. * Evaluar la resistencia estructural del nuevo material.
 |Contribución Principal|Resumir el aporte del trabajo.|* Nuevo algoritmo de enrutamiento. * Diseño de un prototipo funcional. * Propuesta de mejora del proceso validada. * Análisis de datos para toma de decisiones.|
 
-### Metodología / Materiales y Métodos (Uso de Diagramas)
+### 2.2 Metodología / Materiales y Métodos (Uso de Diagramas)
 
 Esta sección debe ser principalmente visual. Los diagramas son fundamentales para ilustrar la secuencia o la arquitectura del proyecto sin depender de textos largos.
 
